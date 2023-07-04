@@ -2,7 +2,8 @@
 
 This is a simple To-Do List application built with Node.js, Express.js, and React.
 
-![Example Image](images/example.png)
+<img src="output.png" alt="Output Image" width="500" height="300">
+
 
 
 ## Installation
@@ -17,7 +18,7 @@ The backend and frontend are connected using React Axios library for making HTTP
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sanghvirachna/To-do-List.git
    ```
 2. Install dependencies:
 
